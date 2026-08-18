@@ -82,16 +82,16 @@ Architectural integration of multi-stage sequential systems and complete digital
 
 ```text
 01-Digital-Logic-Design/
-├── Week-01/
-│   ├── circuits/               # Native simulator circuit files (.circ)
-│   └── WEEK1_DLD.pdf           # Lab submission & schematics
-├── Week-02/
-│   ├── circuits/
-│   └── WEEK2_DLD.pdf
-├── Week-03/
-│   ├── circuits/
-│   └── WEEK3_DLD.pdf
-├── Week-04/
-│   ├── circuits/
-│   └── WEEK4_DLD.pdf
-└── README.md                   # Module documentation
+├── Week-01-Boolean-Algebra-and-KMap/
+│   ├── Circuits/               # week_1_dld_Ali_Irfan.circ
+│   └── Docs/                   # WEEK 1 DLD ALI IRFAN.pdf
+├── Week-02-Combinational-Logic-and-ALU/
+│   ├── Circuits/               # week_2_DLD_Ali_Irfan.circ
+│   └── Docs/                   # WEEK2_DLD_ALI_IRFAN.pdf
+├── Week-03-Sequential-Logic-and-Counters/
+│   ├── Circuits/               # WEEK3_DLD_ALI_IRFAN.circ
+│   └── Docs/                   # WEEK3_DLD_ALI_IRFAN.pdf
+├── Week-04-FSM-and-Digital-Clock/
+│   ├── Circuits/               # WEEK4_DLD_ALI_IRFAN.circ
+│   └── Docs/                   # WEEK4_DLD_ALI_IRFAN.pdf
+└── README.md                   # Module documentation & breakdown
