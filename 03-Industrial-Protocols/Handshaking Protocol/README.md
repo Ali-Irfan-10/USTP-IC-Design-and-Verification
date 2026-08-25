@@ -24,4 +24,19 @@ The testbench (`tb_handshake_protocol.v`) verifies:
 1. Writing `0xAA` into `reg0` and `0xBB` into `reg1`.
 2. Reading back data from `reg0` and `reg1` via the handshake interface.
 
+---
+
+## 👨‍💻 Author
+
+**Ali Irfan**
+
+Computer Engineering | Digital IC Design & Verification
+
+Passionate about **RTL Design, Digital IC Design, Functional Verification, FPGA Development, and ASIC Design Flows**.
+
+Experienced with **Verilog HDL, SystemVerilog, QuestaSim, FPGA-based design, AMBA protocols, and RTL-to-GDSII workflows** using open-source ASIC tools.
+
+This repository represents practical engineering work, hands-on learning, and continuous development in **digital hardware design and verification**.
+
+⭐ If you find this repository useful, consider giving it a star.
 
