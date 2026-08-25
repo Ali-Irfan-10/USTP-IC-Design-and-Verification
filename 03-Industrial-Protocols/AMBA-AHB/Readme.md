@@ -264,6 +264,8 @@ AMBA-AHB-Lite/
 ├── architecture.png
 └── README.md
 
+```
+
 ---
 
 ## 👨‍💻 Author
