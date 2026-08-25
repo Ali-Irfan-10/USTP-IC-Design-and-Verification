@@ -151,7 +151,7 @@ The testbench verifies:
 
 ## 4-Slave AHB-Lite Subsystem
 
-![AHB-Lite System Architecture](Architectureblock diagram.png)
+![AHB-Lite System Architecture](Architectureblockdiagram.png)
 
 ### Architectural Flow & Decoding Logic
 
