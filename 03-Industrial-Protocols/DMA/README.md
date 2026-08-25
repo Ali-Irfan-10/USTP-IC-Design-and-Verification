@@ -59,6 +59,11 @@ Integrates the DMA FSM controller and synchronous FIFO buffer:
 
 ---
 
+### Task 3: Complete DMA Engine Simulation
+![DMA Engine Waveform](dma_engine_waveform.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Ali Irfan**
@@ -72,7 +77,3 @@ Experienced with **Verilog HDL, SystemVerilog, QuestaSim, FPGA-based design, AMB
 This repository represents practical engineering work, hands-on learning, and continuous development in **digital hardware design and verification**.
 
 ⭐ If you find this repository useful, consider giving it a star.
-
-
-### Task 3: Complete DMA Engine Simulation
-![DMA Engine Waveform](dma_engine_waveform.png)
