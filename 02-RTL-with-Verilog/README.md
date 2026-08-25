@@ -62,6 +62,7 @@ conda activate xc7
 
 # 2. Build target module
 TARGET="arty_100" make -C <module_folder_name>
+```
 
 ---
 
