@@ -60,7 +60,7 @@ nom_ss_100C_1v60	1000000.00 ps	0.0000	1000000.00 ps	0.0000	0	0
 nom_ff_n40C_1v95	1000000.00 ps	0.0000	1000000.00 ps	0.0000	0	0
 
 
-![Multi-Corner STA Sign-off Report](images/STA.png)
+![Multi-Corner STA Sign-off Report](PICS/STA.png)
 
 ---
 
@@ -71,7 +71,7 @@ Automated checks for Antenna, LVS (Layout vs. Schematic), and DRC (Design Rule C
 - **LVS Check:** Passed (Netlist matches layout schematics cleanly)
 - **DRC Check:** Passed (Magic & KLayout DRC clean)
 
-![Physical Verification Checks](images/DRC_LVS_CHECKS.png)
+![Physical Verification Checks](PICS/DRC_LVS_CHECKS.png)
 
 ---
 
@@ -80,12 +80,12 @@ Automated checks for Antenna, LVS (Layout vs. Schematic), and DRC (Design Rule C
 ### 1. OpenROAD GUI Floorplan & Routing
 Floorplan visualization depicting power straps, macro orientation, standard cell placement, and detailed routing:
 
-![OpenROAD GUI Layout](images/OpenGui.png)
+![OpenROAD GUI Layout](PICS/OpenGui.png)
 
 ### 2. Final KLayout GDSII Layout
 High-resolution full-chip GDSII stream-out rendered in KLayout showing standard cell rows, multi-metal routing (met1–met4), and the two placed SPM macros:
 
-![KLayout Full Chip GDSII](images/KlayoutGDS.png)
+![KLayout Full Chip GDSII](PICS/KlayoutGDS.png)
 
 ---
 
