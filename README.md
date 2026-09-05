@@ -88,13 +88,11 @@ USTP-IC-Design-and-Verification/
 │   ├── DMA/
 │   └── Handshaking-Protocol/
 │
-├── 04-Data-Structures-OOP-C++/
+├── 04-ASIC-Physical-Design/
 │
 ├── 05-SystemVerilog-Verification/
 │
 ├── 06-UVM-Verification/
-│
-├── 07-ASIC-Physical-Design/
 │
 ├── .gitignore
 └── README.md
