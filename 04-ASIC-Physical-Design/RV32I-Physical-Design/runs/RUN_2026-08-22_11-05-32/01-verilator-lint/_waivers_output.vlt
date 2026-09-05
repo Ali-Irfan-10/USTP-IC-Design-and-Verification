@@ -1,0 +1,47 @@
+// DESCRIPTION: Verilator output: Waivers generated with --waiver-output
+
+`verilator_config
+
+// Below are suggested waivers. You have three options:
+//   1. Fix the reason for the linter warning in the Verilog sources
+//   2. Keep the waiver permanently if you are sure it is okay
+//   3. Keep the waiver temporarily to suppress the output
+
+// lint_off -rule WIDTHTRUNC -file "*/home/cl4/Desktop/Training/riscv/src/DATA_MEM.v" -match "Bit extraction of array[15:0] requires 4 bit index, not 12 bits.*"
+
+// lint_off -rule WIDTHTRUNC -file "*/home/cl4/Desktop/Training/riscv/src/DATA_MEM.v" -match "Bit extraction of array[15:0] requires 4 bit index, not 12 bits.*"
+
+// lint_off -rule WIDTHTRUNC -file "*/home/cl4/Desktop/Training/riscv/src/DATA_MEM.v" -match "Bit extraction of array[15:0] requires 4 bit index, not 12 bits.*"
+
+// lint_off -rule WIDTHTRUNC -file "*/home/cl4/Desktop/Training/riscv/src/DATA_MEM.v" -match "Bit extraction of array[15:0] requires 4 bit index, not 12 bits.*"
+
+// lint_off -rule WIDTHTRUNC -file "*/home/cl4/Desktop/Training/riscv/src/DATA_MEM.v" -match "Bit extraction of array[15:0] requires 4 bit index, not 12 bits.*"
+
+// lint_off -rule WIDTHEXPAND -file "*/home/cl4/Desktop/Training/riscv/src/WRAPPER_MEM.v" -match "Input port connection 'mem_addr' expects 12 bits on the pin connection, but pin connection's SEL generates 4 bits.*"
+
+// lint_off -rule WIDTHTRUNC -file "*/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v" -match "Operator ASSIGN expects 32 bits on the Assign RHS, but Assign RHS's COND generates 40 bits.*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/home/cl4/Desktop/Training/riscv/src/TOPMODULE.v" -match "Signal is not driven, nor used: 'data_mem_o'*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/home/cl4/Desktop/Training/riscv/src/TOPMODULE.v" -match "Signal is not used: 'store_op'*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/home/cl4/Desktop/Training/riscv/src/TOPMODULE.v" -match "Signal is not used: 'wrapper_mem_o_for_data_mem_i'*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/home/cl4/Desktop/Training/riscv/src/INSTR_MEM.v" -match "Signal is not used: 'clk'*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/home/cl4/Desktop/Training/riscv/src/PC.v" -match "Bits of signal are not used: 'result'[31:1]*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/home/cl4/Desktop/Training/riscv/src/WRAPPER_MEM.v" -match "Bits of signal are not used: 'instruction'[31:15,11:0]*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/home/cl4/Desktop/Training/riscv/src/WRAPPER_MEM.v" -match "Bits of signal are not used: 'mem_addr'[13:6]*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/home/cl4/Desktop/Training/riscv/src/DATA_MEM.v" -match "Bits of signal are not used: 'mem_addr'[11:4]*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/home/cl4/Desktop/Training/riscv/src/DATA_MEM.v" -match "Signal is not used: 'mem_read'*"
+
+// lint_off -rule CASEINCOMPLETE -file "*/home/cl4/Desktop/Training/riscv/src/WRAPPER_MEM.v" -match "Case values incompletely covered (example pattern 0x3)*"
+
+// lint_off -rule CASEINCOMPLETE -file "*/home/cl4/Desktop/Training/riscv/src/WRAPPER_MEM.v" -match "Case values incompletely covered (example pattern 0x3)*"
+
+// lint_off -rule CASEINCOMPLETE -file "*/home/cl4/Desktop/Training/riscv/src/WRAPPER_MEM.v" -match "Case values incompletely covered (example pattern 0x3)*"
+

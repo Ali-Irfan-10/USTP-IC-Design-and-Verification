@@ -1,0 +1,65 @@
+{
+   "creator": "Yosys 0.62 (git sha1 7326bb7d6641500ecb285c291a54a662cb1e76cf, clang++ 21.1.2 -fPIC -O3)",
+   "invocation": "stat -json -liberty /home/cl4/Desktop/Training/riscv/runs/RUN_2026-08-22_11-05-32/tmp/8269814b7f11475baa57ff9a54af2a70.lib ",
+   "modules": {
+      "\\topmodule": {
+         "num_wires":         6203,
+         "num_wire_bits":     7404,
+         "num_pub_wires":     40,
+         "num_pub_wire_bits": 1183,
+         "num_ports":         4,
+         "num_port_bits":     35,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         7343,
+         "num_submodules":       0,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 1789,
+            "$_AND_": 61,
+            "$_DFFE_PN0N_": 512,
+            "$_DFFE_PN0P_": 2,
+            "$_DFFE_PP_": 512,
+            "$_DFF_PN0_": 62,
+            "$_MUX_": 1440,
+            "$_NAND_": 77,
+            "$_NOR_": 301,
+            "$_NOT_": 721,
+            "$_ORNOT_": 225,
+            "$_OR_": 1392,
+            "$_XNOR_": 37,
+            "$_XOR_": 212
+         }
+      }
+   },
+      "design": {
+         "num_wires":         6203,
+         "num_wire_bits":     7404,
+         "num_pub_wires":     40,
+         "num_pub_wire_bits": 1183,
+         "num_ports":         4,
+         "num_port_bits":     35,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         7343,
+         "num_submodules":       0,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 1789,
+            "$_AND_": 61,
+            "$_DFFE_PN0N_": 512,
+            "$_DFFE_PN0P_": 2,
+            "$_DFFE_PP_": 512,
+            "$_DFF_PN0_": 62,
+            "$_MUX_": 1440,
+            "$_NAND_": 77,
+            "$_NOR_": 301,
+            "$_NOT_": 721,
+            "$_ORNOT_": 225,
+            "$_OR_": 1392,
+            "$_XNOR_": 37,
+            "$_XOR_": 212
+         }
+      }
+}
+

@@ -1,0 +1,9 @@
+{
+    "json_h": "/home/cl4/Desktop/Training/riscv/runs/RUN_2026-08-22_11-05-32/05-yosys-jsonheader/topmodule.h.json",
+    "metrics": {
+        "design__lint_error__count": 0,
+        "design__lint_timing_construct__count": 0,
+        "design__lint_warning__count": 19,
+        "design__inferred_latch__count": 0
+    }
+}

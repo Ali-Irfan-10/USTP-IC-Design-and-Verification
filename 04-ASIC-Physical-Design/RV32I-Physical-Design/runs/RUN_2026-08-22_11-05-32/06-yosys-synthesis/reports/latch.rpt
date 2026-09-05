@@ -1,0 +1,24 @@
+
+22. Executing PROC_DLATCH pass (convert process syncs to latches).
+No latch inferred for signal `\registerfile.$mem2reg_rd$\rd$/home/cl4/Desktop/Training/riscv/src/REGISTER_FILE.v:36$76_DATA' from process `\registerfile.$proc$/home/cl4/Desktop/Training/riscv/src/REGISTER_FILE.v:36$91'.
+No latch inferred for signal `\registerfile.$mem2reg_rd$\rd$/home/cl4/Desktop/Training/riscv/src/REGISTER_FILE.v:35$75_DATA' from process `\registerfile.$proc$/home/cl4/Desktop/Training/riscv/src/REGISTER_FILE.v:35$88'.
+No latch inferred for signal `\alu.\result' from process `\alu.$proc$/home/cl4/Desktop/Training/riscv/src/ALU.v:11$49'.
+No latch inferred for signal `\instruct_mem.\instruction' from process `\instruct_mem.$proc$/home/cl4/Desktop/Training/riscv/src/INSTR_MEM.v:16$35'.
+No latch inferred for signal `\control_unit.\reg_write' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\rd_addr' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\rs1_addr' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\rs2_addr' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\alu_op' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\op_b_sel' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\imm' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\rd_sel' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\branch' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\jump' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\jalr' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\auipc' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\mem_read' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\control_unit.\mem_write' from process `\control_unit.$proc$/home/cl4/Desktop/Training/riscv/src/CONTROL_UNIT.v:33$16'.
+No latch inferred for signal `\wrapper_mem.\store_op' from process `\wrapper_mem.$proc$/home/cl4/Desktop/Training/riscv/src/WRAPPER_MEM.v:23$7'.
+No latch inferred for signal `\wrapper_mem.\wrapper_mem_o_for_data_mem_i' from process `\wrapper_mem.$proc$/home/cl4/Desktop/Training/riscv/src/WRAPPER_MEM.v:23$7'.
+No latch inferred for signal `\wrapper_mem.\wrapper_mem_o' from process `\wrapper_mem.$proc$/home/cl4/Desktop/Training/riscv/src/WRAPPER_MEM.v:23$7'.
+No latch inferred for signal `\data_mem.\data_mem_o' from process `\data_mem.$proc$/home/cl4/Desktop/Training/riscv/src/DATA_MEM.v:39$135'.
