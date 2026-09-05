@@ -89,6 +89,10 @@ USTP-IC-Design-and-Verification/
 │   └── Handshaking-Protocol/
 │
 ├── 04-ASIC-Physical-Design/
+│   ├── MACRO-MMP/
+│   ├── RV32I-Physical-Design/
+│   ├── SPM/
+│   └── UART-Controller/
 │
 ├── 05-SystemVerilog-Verification/
 │
